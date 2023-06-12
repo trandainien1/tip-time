@@ -25,4 +25,4 @@ Getting Started
 
 Final Product
 --------------
-![plot](./final_product.png)
+![plot](app/final_product.png)
